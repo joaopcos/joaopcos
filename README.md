@@ -12,7 +12,7 @@
     <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="right" alt="Avatar" height="128" width="128" src="http://joaopcos.live/uploads/.png/avatar.png">
+    <img align="right" alt="Avatar" height="128" width="128" src="http://file-storage.joaopcos.live/files/611ad92c75862_avatar.png">
 </div>
   
 ##
