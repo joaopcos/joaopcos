@@ -32,6 +32,6 @@
   
 <div>
     <a href="https://github.com/joaopcos">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=joaopcos&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight"/>
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopcos&layout=compact&theme=tokyonight"/>
+    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=joaopcos&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight"/>
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopcos&layout=compact&theme=tokyonight"/>
 </div>
