@@ -1,4 +1,4 @@
-![Banner](http://file-storage.joaopcos.live/files/611d87dfbc65c_banner.png)
+![Banner](http://file-storage.joaopcos.live/files/611ee3f56428b_bannet-gt.png)
 
 <h1 align="center">Olá 👋, meu nome é João Pedro.</h1>
 <h3 align="center">Sou um desenvolvedor Web Full Stack!</h3>
