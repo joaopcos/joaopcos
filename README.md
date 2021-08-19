@@ -10,23 +10,23 @@
 
 <div style="display: inline_block">
     <h3 align="left">Onde me encontrar:</h3>
-    <a href="https://www.linkedin.com/in/joaopcos/"><img align="center" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-    <a href="https://stackoverflow.com/users/14793779/joaopcos"><img align="center" alt="Stack Overflow" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"></a>
-    <a href="https://instagram.com/joaopcos"><img align="center" alt="Instagram" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a>
+    <a href="https://www.linkedin.com/in/joaopcos/"><img align="center" alt="LinkedIn" title="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+    <a href="https://stackoverflow.com/users/14793779/joaopcos"><img align="center" alt="Stack Overflow" title="Stack Overflow" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"></a>
+    <a href="https://instagram.com/joaopcos"><img align="center" alt="Instagram" title="Instagram" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a>
 </div>
 
 
 <div style="display: inline_block">
     <h3 align="left">Linguagens e Ferramentas:</h3>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-    <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="HTML" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="JavaScript" height="30" width="40" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="JavaScript" height="30" width="40" title="Bulma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">
+    <img align="center" alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="LinkedIn" height="30" width="40" title="JQuery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+    <img align="center" alt="PHP" height="30" width="40" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="C" height="30" width="40" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="C++" height="30" width="40" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     <img align="right" alt="Avatar" height="128" width="128" src="http://file-storage.joaopcos.live/files/611ad92c75862_avatar.png">
 </div>
   
