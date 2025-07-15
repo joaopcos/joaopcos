@@ -1,12 +1,12 @@
 <h1 align="center">Olá 👋, meu nome é João Pedro.</h1>
-<h3 align="center">Sou um desenvolvedor Web Full Stack!</h3>
+<h3 align="center">Sou um desenvolvedor Full Stack!</h3>
 
 <img src="https://komarev.com/ghpvc/?username=joaopcos&label=Profile%20views:&color=0e75b6&style=flat"/>
 
 - 🎯 Atualmente focado e estudando bastante para melhorar os meus códigos!
 - 💻 Todos os meus projetos open-source estão dísponiveis no meu <a href="https://github.com/joaopcos">GitHub!</a>
-- 📮 Se estiver interessado em falar comigo não hesite em nenhum momento: <a href="mailto:contato@joaopcos3@gmail.com">joaopcos3@gmail.com</a>
-- 📝 Conheça meu projeto atual: <a href="https://decreaser.xyz">Decreaser.xyz</a>
+- 📮 Se estiver interessado em falar comigo não hesite em nenhum momento: <a href="mailto:ola@joaopcos.xyz">ola@joaopcos.xyz</a>
+- 📝 Conheça o meu portfólio: <a href="https://joaopcos.xyz">joaopcos.xyz</a>
 
 <div style="display: inline_block">
     <h3 align="left">Onde me encontrar:</h3>
@@ -20,12 +20,14 @@
     <h3 align="left">Linguagens e Ferramentas:</h3>
     <img align="center" alt="HTML" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" title="Bulma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">
     <img align="center" alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="LinkedIn" height="30" width="40" title="JQuery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
     <img align="center" alt="PHP" height="30" width="40" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="right" alt="Avatar" height="128" width="128" src="https://joaopcos.xyz/assets/images/signature.svg">
+    <img align="center" alt="Laravel" height="30" width="40" title="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg">
+    <img align="center" alt="React" height="30" width="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg">
+    <img align="center" alt="JQuery" height="30" width="40" title="JQuery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+    <img align="center" alt="WordPress" height="30" width="40" title="WordPress" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-original.svg">
+
+    <img align="right" alt="Avatar" height="128" width="128" src="https://joaopcos.xyz/wp-content/uploads/2024/10/favicon.png">
 </div>
   
 ##
