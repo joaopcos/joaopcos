@@ -26,7 +26,6 @@
     <img align="center" alt="React" height="30" width="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg">
     <img align="center" alt="JQuery" height="30" width="40" title="JQuery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
     <img align="center" alt="WordPress" height="30" width="40" title="WordPress" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-original.svg">
-
     <img align="right" alt="Avatar" height="128" width="128" src="https://joaopcos.xyz/wp-content/uploads/2024/10/favicon.png">
 </div>
   
