@@ -10,9 +10,15 @@
 
 <div style="display: inline_block">
     <h3 align="left">Onde me encontrar:</h3>
-    <a href="https://www.linkedin.com/in/joaopcos/"><img align="center" alt="LinkedIn" title="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-    <a href="https://stackoverflow.com/users/14793779/joaopcos"><img align="center" alt="Stack Overflow" title="Stack Overflow" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"></a>
-    <a href="https://instagram.com/joaopcos"><img align="center" alt="Instagram" title="Instagram" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a>
+    <a href="https://www.linkedin.com/in/joaopcos/">
+        <img align="center" alt="LinkedIn" title="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+    </a>
+    <a href="https://stackoverflow.com/users/14793779/joaopcos">
+        <img align="center" alt="Stack Overflow" title="Stack Overflow" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg">
+    </a>
+    <a href="https://instagram.com/joaopcos">
+        <img align="center" alt="Instagram" title="Instagram" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg">
+    </a>
 </div>
 
 
