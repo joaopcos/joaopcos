@@ -35,11 +35,3 @@
     <img align="center" alt="WordPress" height="30" width="40" title="WordPress" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-original.svg">
     <img align="right" alt="Avatar" height="48" width="48" src="https://joaopcos.xyz/wp-content/uploads/2024/10/favicon.png">
 </div>
-  
-##
-  
-<div>
-    <a href="https://github.com/joaopcos">
-    <img height="130px" src="https://github-readme-stats.vercel.app/api?username=joaopcos&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight"/>
-    <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopcos&layout=compact&theme=tokyonight"/>
-</div>
