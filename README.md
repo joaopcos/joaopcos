@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, meu nome é João Pedro.</h1>
 <h3 align="center">Sou um desenvolvedor Full Stack!</h3>
 
-<img src="https://komarev.com/ghpvc/?username=joaopcos&label=Profile%20views:&color=0e75b6&style=flat"/>
-
 - 🎯 Atualmente focado e estudando bastante para melhorar os meus códigos!
 - 💻 Todos os meus projetos open-source estão dísponiveis no meu <a href="https://github.com/joaopcos">GitHub!</a>
 - 📮 Se estiver interessado em falar comigo não hesite em nenhum momento: <a href="mailto:ola@joaopcos.xyz">ola@joaopcos.xyz</a>
